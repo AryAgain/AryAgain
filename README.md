@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aryan
+- 👋 Hi, I’m **Aryan**
 - 👀 I’m interested in all things tech
 - 💻 I have around 6 years of professional experience in cloud computing and web technologies built over distributed systems.
 - 🌱 I’m currently pursuing MS in Computer Science from Rochester Institue of Technology, NY. 
