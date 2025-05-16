@@ -2,7 +2,6 @@
 - 👀 I’m interested in all things tech
 - 💻 Extensive work experience in backend web technologies development built over cloud computing.
 - 🌱 I graduated with an MS in Computer Science, specializing in Distributed Systems, from Rochester Institute of Technology, NY.
-- 💞️ I’m looking for full time opportunities in software development.
 - 🌻 Find my open sourced docker container projects [Docker Hub](https://hub.docker.com/u/aryansingh163)
 - 📫 How to reach me: Through my [LinkedIn](https://linkedin.com/in/aryansingh163) | [Calendly](https://calendly.com/singharyan) | [Email](mailto:arysin163@gmail.com)
 
